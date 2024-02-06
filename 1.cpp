@@ -4,6 +4,7 @@ using namespace std;
 #define ve vector
 int main()
 {
+    cout << "Siam";
     
     return 0;
 }
